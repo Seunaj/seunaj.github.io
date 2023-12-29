@@ -20,4 +20,4 @@ Latest News
   <li><strong>June 2023:</strong> Our paper titled “Self-Renewal Machine Learning Approach for Fast Wireless Network Optimization” got accepted as an <i>invited paper</i> in the 2023 IEEE 20th International Conference on Mobile Ad Hoc and Smart Systems (MASS).</li>
 </ul>
 
-- **Previous News:** Find in [News](talks.html).
+- **Previous News:** Find in [News](news.html).
