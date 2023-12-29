@@ -18,5 +18,5 @@ Latest News
   <li><strong>September 2023:</strong> I was awarded the <a href="https://www.soremo.org/home">SoReMo</a> "Fellow Mentor" offer to work with SoReMo faculty and Fellows, to drive the creation and delivering materials that will help guide undergraduate and graduate students in successfully completing the SoReMo fellowship.</li>
   <li><strong>September 2023:</strong> I was selected as one of the recipients of the Student Travel Grant to attend the <a href="https://arawireless.org/2023-public-launch/">2023 ARA Public Launch</a> event at Iowa State University in Ames, Iowa.</li>
   <li><strong>June 2023:</strong> Our paper titled “Self-Renewal Machine Learning Approach for Fast Wireless Network Optimization” got accepted as an <i>invited paper</i> in the 2023 IEEE 20th International Conference on Mobile Ad Hoc and Smart Systems (MASS).</li>
-  <li><strong>Previous News:</strong> Find in <a href="talks.html">News</a></li>
+  <li><strong>Previous News:</strong> Find in <a href="/talks">News</a></li>
 </ul>
