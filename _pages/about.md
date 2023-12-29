@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Paul"
+title: "Oluwaseun"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Science Ph.D. student at the [University of Texas at Arlington](https://www.uta.edu) and a part of the [Cyber-Physical Systems Security Lab](https://csslab.uta.edu) led by [Dr. Habeeb Olufowobi](https://dipupo.github.io). My research focuses on the problem of understanding the security challenges posed by the susceptibility of connected vehicles to potential malicious cyberattacks from the operating environment. The critical problem I try to solve in this area involves correctly modeling the interaction of connected vehicles and detecting anomalous events using robust, scalable, and secured machine learning algorithms. 
+Oluwaseun Ajayi is a Ph.D student in the Department of Electrical and Computer Engineering at Illinois Institute of Technology since Spring 2021. His research lies in machine learning in wireless networks, cloud computing on big data, and information freshness optimization. He is working in the [future networking lab](http://www.ece.iit.edu/~funlab/) led by his advisor, [Prof. Yu Cheng](http://www.ece.iit.edu/~yucheng/).
 
 Latest News
 =======
