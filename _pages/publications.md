@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 
-  You can also find my articles on <a href="https://scholar.google.com/citations?user=IKQdlX4AAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.
+  You can find my full publication lists on <a href="https://scholar.google.com/citations?user=IKQdlX4AAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.
 
 
 {% include base_path %}
 
 5. [**A self-supervised learning approach for accelerating wireless network optimization**](https://ieeexplore.ieee.org/abstract/document/10234316), <font size="2">IEEE EDGE'23</font>
 <!-- [pdf](https://example.com/paper2) -->
-   <br><font size="2"><em>Paul Agbaje</em>, <em>Afia Anjum</em>, <em>Zahidur Talukder</em>, <em>Mohammad Islam</em>, <em>Ebelechukwu Nwafor</em>, <em>Habeeb Olufowobi</em></font>
+   <br><font size="2"><em>Shuai Zhang</em>, <em font-style='bold'>Oluwaseun T. Ajayi</em>, <em>Yu Cheng</em></font>
 
 4. [**Deep Reinforcement Learning for Energy-Efficient Task Offloading in Cooperative Vehicular Edge Networks**](https://ieeexplore.ieee.org/abstract/document/10218113), <font size="2">IEEE INDIN'23</font>
 <!-- [pdf](https://example.com/paper1) -->
