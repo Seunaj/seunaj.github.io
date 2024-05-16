@@ -13,7 +13,7 @@ author_profile: true
 
 5. [**A self-supervised learning approach for accelerating wireless network optimization**](https://ieeexplore.ieee.org/abstract/document/10234316), <font size="2">IEEE Transactions on Vehicular Technology</font>
 <!-- [pdf](https://example.com/paper2) -->
-   <br><font size="2"><em>Shuai Zhang</em>, <em font-style='bold'>Oluwaseun T. Ajayi</em>, <em>Yu Cheng</em></font>
+   <br><font size="2"><em>Shuai Zhang, <bold>Oluwaseun T. Ajayi,</bold> and Yu Cheng</em></font>
 
 4. [**Deep Reinforcement Learning for Energy-Efficient Task Offloading in Cooperative Vehicular Edge Networks**](https://ieeexplore.ieee.org/abstract/document/10218113), <font size="2">IEEE INDIN'23</font>
 <!-- [pdf](https://example.com/paper1) -->
