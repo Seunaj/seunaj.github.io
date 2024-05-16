@@ -1,17 +1,17 @@
 ---
 layout: archive
-title: "Publications"
+title: "Top Publications"
 permalink: /publications/
 author_profile: true
 ---
 
 
-  You can also find my articles on <u><a href="https://scholar.google.com/citations?user=IKQdlX4AAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
+  You can also find my articles on <a href="https://scholar.google.com/citations?user=IKQdlX4AAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.
 
 
 {% include base_path %}
 
-5. [**FedCime: An Efficient Federated Learning Approach For Clients in Mobile Edge Computing**](https://ieeexplore.ieee.org/abstract/document/10234316), <font size="2">IEEE EDGE'23</font>
+5. [**A self-supervised learning approach for accelerating wireless network optimization**](https://ieeexplore.ieee.org/abstract/document/10234316), <font size="2">IEEE EDGE'23</font>
 <!-- [pdf](https://example.com/paper2) -->
    <br><font size="2"><em>Paul Agbaje</em>, <em>Afia Anjum</em>, <em>Zahidur Talukder</em>, <em>Mohammad Islam</em>, <em>Ebelechukwu Nwafor</em>, <em>Habeeb Olufowobi</em></font>
 
