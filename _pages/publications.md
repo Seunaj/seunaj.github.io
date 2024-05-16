@@ -11,21 +11,21 @@ author_profile: true
 
 {% include base_path %}
 
-5. [**A self-supervised learning approach for accelerating wireless network optimization**](https://ieeexplore.ieee.org/abstract/document/10234316), <font size="4">IEEE Transactions on Vehicular Technology</font>
+5. [**Self-Renewal Machine Learning Approach for Fast Wireless Network Optimization**](https://ieeexplore.ieee.org/document/10298482), <font size="3">2023 IEEE 20th International Conference on Mobile Ad Hoc and Smart Systems (MASS)</font>
+<!-- [pdf](https://example.com/paper2) -->
+   <br><font size="2"><em><b>Oluwaseun T. Ajayi,</b> Xianghui Cao, Hangguan Shan, and Yu Cheng</em></font>
+
+4. [**A self-supervised learning approach for accelerating wireless network optimization**](https://ieeexplore.ieee.org/document/10042024), <font size="3">IEEE Transactions on Vehicular Technology</font>
+<!-- [pdf](https://example.com/paper2) -->
+   <br><font size="2"><em>Shuai Zhang, <b>Oluwaseun T. Ajayi,</b> and Yu Cheng</em></font>
+
+
+
+
+
+3. [**A self-supervised learning approach for accelerating wireless network optimization**](https://ieeexplore.ieee.org/document/10042024), <font size="3">IEEE Transactions on Vehicular Technology</font>
 <!-- [pdf](https://example.com/paper2) -->
    <br><font size="2"><em>Shuai Zhang, <bold>Oluwaseun T. Ajayi,</bold> and Yu Cheng</em></font>
-
-4. [**Deep Reinforcement Learning for Energy-Efficient Task Offloading in Cooperative Vehicular Edge Networks**](https://ieeexplore.ieee.org/abstract/document/10218113), <font size="2">IEEE INDIN'23</font>
-<!-- [pdf](https://example.com/paper1) -->
-   <font size=2><em>Paul Agbaje</em>, <em>Ebelechukwu Nwafor</em>, <em>Habeeb Olufowobi</em></font>
-
-
-
-
-
-3. [**In-Vehicle Network Anomaly Detection Using Extreme Gradient Boosting Machine**](https://ieeexplore.ieee.org/abstract/document/9797224), <font size="2">MECO'22</font>
-<!-- [pdf](https://example.com/paper3) -->
-   <br> <font size="2"><em>Afia Anjum</em>, <em>Paul Agbaje</em>, <em>Sena Hounsinou</em>, <em>Habeeb Olufowobi</em></font>
 
 
   
