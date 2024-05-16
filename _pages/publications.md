@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-5. [**A self-supervised learning approach for accelerating wireless network optimization**](https://ieeexplore.ieee.org/abstract/document/10234316), <font size="2">IEEE Transactions on Vehicular Technology</font>
+5. [**A self-supervised learning approach for accelerating wireless network optimization**](https://ieeexplore.ieee.org/abstract/document/10234316), <font size="4">IEEE Transactions on Vehicular Technology</font>
 <!-- [pdf](https://example.com/paper2) -->
    <br><font size="2"><em>Shuai Zhang, <bold>Oluwaseun T. Ajayi,</bold> and Yu Cheng</em></font>
 
