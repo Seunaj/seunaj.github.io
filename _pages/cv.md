@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 redirect_to:
-  - https://drive.google.com/file/d/1A4DzHnzprIRA5u2qk8BjYa7rv-i2g7Bx/view?usp=sharing
+  - https://drive.google.com/file/d/1l9ClSCihdeXsg4ploOVEGyaIxBLgyFca/view?usp=sharing
 ---
 
 {% include base_path %}
