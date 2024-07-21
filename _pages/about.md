@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Oluwaseun Ajayi is a Ph.D candidate in the Department of Electrical and Computer Engineering at [Illinois Institute of Technology](https://www.iit.edu/) since Spring 2021. His research focuses on machine learning in wireless networks, information freshness optimization, and big data analytics. He is advised by [Prof. Yu Cheng](http://www.ece.iit.edu/~yucheng/) and works in the **FU**ture **N**etworking lab. In [FunLab](http://www.ece.iit.edu/~funlab/), research is **fun!**
+Oluwaseun T. Ajayi is a Ph.D candidate in the Department of Electrical and Computer Engineering at [Illinois Institute of Technology](https://www.iit.edu/) since Spring 2021. His research focuses on machine learning in wireless networks, information freshness optimization, and big data analytics. He is advised by [Prof. Yu Cheng](http://www.ece.iit.edu/~yucheng/) and works in the **FU**ture **N**etworking lab. In [FunLab](http://www.ece.iit.edu/~funlab/), research is **fun!**
 
 Latest News
 =======
