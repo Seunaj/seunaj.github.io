@@ -1,5 +1,5 @@
 ---
-title: "Bayesian Networks and Machine Learning for COVID-19 Severity Explanation"
+title: "Bayesian networks and machine learning for COVID-19 severity explanation"
 excerpt: "We presented a three-stage data-driven approach to distill the hidden information about COVID-19. The first stage employs a Bayesian network structure learning method to identify the causal relationships among COVID-19 symptoms and their intrinsic demographic variables. As a second stage, the output from the Bayesian network structure learning, serves as a useful guide to train an unsupervised machine learning (ML) algorithm that uncovers the similarities in patients' symptoms through clustering. The final stage then leverages the labels obtained from clustering to train a demographic symptom identification model which predicts a patient's symptom class and the corresponding demographic probability distribution.
 <br/><br/>
 <img src='/images/BN_ML Covid Framework.jpg' width='500' height='150'>"
