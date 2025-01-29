@@ -1,6 +1,6 @@
 ---
 title: "Self-renewal machine learning framework for wireless network optimization"
-excerpt: "We propose a self-renewal ML (SRML) approach for the optimization of wireless network capacity. The SRML method incrementally improves the throughput maximization of future optimization instances through the design of a data selection algorithm for fine-tuning an application identification model. Our proposed SRML method reduces the computational complexity and achieves a higher solution efficiency. <br/><br/>
+excerpt: "We proposed a self-renewal ML (SRML) approach for the optimization of wireless network capacity. The SRML method incrementally improves the throughput maximization of future optimization instances through the design of a data selection algorithm for fine-tuning an application identification model. Our proposed SRML method reduces the computational complexity and achieves a higher solution efficiency. <br/><br/>
 <img src='/images/SRML architecture.jpg' width='500' height='300'>"
 collection: portfolio
 ---
