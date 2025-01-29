@@ -87,8 +87,8 @@ author:
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=IKQdlX4AAAAJ&hl=en&oi=ao"
-  #email            :
-  researchgate     :  "https://www.researchgate.net/profile/Oluwaseun-Ajayi-3" # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "oajayi6@hawk.iit.edu"
+  #researchgate     :  "https://www.researchgate.net/profile/Oluwaseun-Ajayi-3" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
