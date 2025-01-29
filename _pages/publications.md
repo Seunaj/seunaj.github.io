@@ -11,7 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
-3. [**Self-Renewal Machine Learning Approach for Fast Wireless Network Optimization**](https://ieeexplore.ieee.org/document/10298482), <font size="3">2023 IEEE 20th International Conference on Mobile Ad Hoc and Smart Systems (MASS)</font>
+4. [**An analytical approach for minimizing the age of information in a practical csma network**](https://ieeexplore.ieee.org/document/10621330), <font size="3">IEEE INFOCOM 2024 - IEEE Conference on Computer Communications</font>
+<!-- [pdf](https://example.com/paper2) -->
+   <br><font size="2"><em>Suyang Wang <b>Oluwaseun T. Ajayi,</b>, and Yu Cheng</em></font>
+
+3. [**Self-renewal machine learning approach for fast wireless network optimization**](https://ieeexplore.ieee.org/document/10298482), <font size="3">2023 IEEE 20th International Conference on Mobile Ad Hoc and Smart Systems (MASS)</font>
 <!-- [pdf](https://example.com/paper2) -->
    <br><font size="2"><em><b>Oluwaseun T. Ajayi,</b> Xianghui Cao, Hangguan Shan, and Yu Cheng</em></font>
 
