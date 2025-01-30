@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-  Full publication list is available on <a href="https://scholar.google.com/citations?user=IKQdlX4AAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.
+  Full publication list is available on <a href="https://scholar.google.com/citations?user=IKQdlX4AAAAJ&hl=en&oi=ao"> Google Scholar</a>.
 
 
 {% include base_path %}
