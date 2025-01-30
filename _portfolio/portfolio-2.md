@@ -6,7 +6,7 @@ excerpt: "We presented a three-stage data-driven approach to distill the hidden 
 collection: portfolio
 ---
 
-The COVID-19 global pandemic spurred many researchers to explore various methods to predict, forecast and analyze the impact of the COVID-19 virus. Just as anyone would imagine, we opine that it is possible that if the society has an understanding about the COVID-19 disease, its symptoms, how it spreads, and the degree of its severity across different demographics, they can better plan their lives and become resilient to the threat it poses. However, such public awareness relies on availability and access to historical data, and knowledge about the disease. 
+The COVID-19 global pandemic spurred many researchers to explore various methods to predict, forecast and analyze the impact of the COVID-19 virus. We opine that if the society has an understanding about the COVID-19 disease, its symptoms, how it spreads, and the degree of its severity across different demographics, they can better plan their lives and become resilient to the threat it poses. However, such public awareness relies on availability and access to historical data, and knowledge about the disease. 
 
 Our work addressed the information and knowledge awareness limitation about the COVID-19 disease by:
 1. Developing a probabilistic graphical model from COVID-19 dataset, where the nodes represent symptoms (i.e., variables or features), and the edges represent the causal relationship between them. The idea is that, since there are several symptoms collected for patients’ cases, it is intuitive to study the (in)dependence mapping between these features.
