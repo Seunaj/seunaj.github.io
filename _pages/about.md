@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Oluwaseun (Seun) and I am a Ph.D candidate in the Department of Electrical and Computer Engineering at [Illinois Institute of Technology](https://www.iit.edu/), advised by [Prof. Yu Cheng](http://www.ece.iit.edu/~yucheng/). I joined Prof. Cheng's **FU**ture **N**etworking laboratory in Spring 2021, and have been on conducting research in the areas of machine learning in wireless networks, age of information optimization, big data analytics, and cloud/edge computing. In [FunLab](http://www.ece.iit.edu/~funlab/), research is **FUN!** <span>&#128513;</span>
+Hi, my name is Oluwaseun (Seun) and I am a Ph.D candidate in the Department of Electrical and Computer Engineering at [Illinois Institute of Technology](https://www.iit.edu/), advised by [Prof. Yu Cheng](http://www.ece.iit.edu/~yucheng/). I joined Prof. Cheng's **FU**ture **N**etworking laboratory in Spring 2021, and have been on conducting research in the areas of machine learning in wireless networks, age of information optimization, big data analytics, and cloud/edge computing. In [FunLab](http://www.ece.iit.edu/~funlab/), research is **FUN!** <span>&#128515; &#128513;</span>
 
 <i> &#128227; I am actively seeking research internship for Summer 2025.</i>
 
