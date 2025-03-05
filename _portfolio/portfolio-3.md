@@ -1,7 +1,7 @@
 ---
 title: "Self-supervised learning approach for accelerating wireless network optimization"
 excerpt: "In this project, we study the classic wireless multi-commodity network flow problem, where the network-layer routing issue
-and link-layer scheduling issue are coupled together. We propose a self-supervised learning paradigm in which the scheduling structures (referring to the independent sets) of historical optimization experiences from a fixed network topology are smartly exploited to facilitate solving new instances with greatly reduced computational overhead. <br/><br/>
+and link-layer scheduling issue are coupled together. We proposed a self-supervised learning paradigm in which the scheduling structures (referring to the independent sets) of historical optimization experiences from a fixed network topology are smartly exploited to facilitate solving new instances with greatly reduced computational overhead. <br/><br/>
 <img src='/images/Self_supervised_main.jpg' width='500' height='150'>"
 collection: portfolio
 ---
