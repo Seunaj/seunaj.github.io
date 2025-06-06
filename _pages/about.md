@@ -12,7 +12,7 @@ Hi, my name is Oluwaseun (Seun) and I am a Ph.D candidate in the Department of E
 
 ~~I am actively seeking research internship for Summer 2025.~~
 
-<i> &#128227; I got a Research Aide Technical - PhD position (summer internship) at [Argonne Leadership Computing Facility (ALCF)](https://www.alcf.anl.gov/).</i>
+<s> &#128227; I got a Research Aide Technical - PhD position (summer internship) at [Argonne Leadership Computing Facility (ALCF)](https://www.alcf.anl.gov/).</s>
 
 Latest News
 =======
