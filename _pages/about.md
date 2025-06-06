@@ -22,7 +22,6 @@ Latest News
   <li><strong>May 2024:</strong> Our paper titled “Large Language Model Based Machine Learning Approach for Fake News Detection” got accepted in the <a href="http://www.meta-computing.info/index.html">IEEE ICMC 2024</a> Conference.</li>
   <li><strong>April 2024:</strong> I participated in the Student Research Poster competition at the <a href="https://www.iit.edu/news/2024-ece-day-seminar-and-student-research-competition">2024 ECE day</a> and won the Best Presentation Award for Ph.D. Research in Networks & Communications as second place.</li>  
   <li><strong>December 2023:</strong> Our paper titled “An Analytical Approach for Minimizing the Age of Information in a Practical CSMA Network” got accepted in the <a href="https://infocom2024.ieee-infocom.org/">IEEE INFOCOM 2024</a> Conference.</li>
-  <li><strong>October 2023:</strong> I gave a presentation and training on <a href="https://www.youtube.com/watch?v=CK_5BNsiusE">how to prepare the final reports</a> for the SoReMo project for publication in the SoReMo journal.</li>
 </ul>
 
 - **Previous News:** Find in [News](news.html).
