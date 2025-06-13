@@ -17,7 +17,7 @@ Hi, my name is Oluwaseun (Seun) and I am a Ph.D candidate in the Department of E
 Latest News
 =======
 <ul>
-  <li><strong>May 2025:</strong> I was awarded a Student Travel Grant for the 2025 IEEE International Conference on Communications held in [Montréal, Canada.](https://seunaj.github.io/photos#ieeeicc25/)</li>
+  <li><strong>May 2025:</strong> I was awarded a Student Travel Grant for the 2025 IEEE International Conference on Communications held in Montréal, Canada.</li>
   <li><strong>April 2025:</strong> I passed the PhD comprehensive exam for the Electrical Engineering PhD program at Illinois Institute of Technology.</li>
   <li><strong>January 2025:</strong> Our paper titled “Split Federated Learning for AIGC with Resource Cognition in Collaborative Mobile Edge Computing” got accepted in the <a href="https://icc2025.ieee-icc.org/">IEEE ICC 2025</a> Conference.</li>
   <li><strong>May 2024:</strong> Our paper titled “Large Language Model Based Machine Learning Approach for Fake News Detection” got accepted in the <a href="http://www.meta-computing.info/index.html">IEEE ICMC 2024</a> Conference.</li>
