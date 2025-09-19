@@ -10,6 +10,8 @@ redirect_from:
 
 Hi, my name is Oluwaseun (Seun) and I am a Ph.D candidate in the Department of Electrical and Computer Engineering at [Illinois Institute of Technology](https://www.iit.edu/), advised by [Prof. Yu Cheng](http://www.ece.iit.edu/~yucheng/). I joined Prof. Cheng's **FU**ture **N**etworking laboratory (FunLab) in Spring 2021 and have been conducting research in the areas of machine learning in wireless networks, age of information optimization, cloud/edge computing, and AI for science. Most of my papers are published in top-tier IEEE journals and conference/workshop proceedings. In [FunLab](http://www.ece.iit.edu/~funlab/), our research is **FUN!** <span>&#128515;</span>
 
+&#128227; As I prepare to graduate in Spring 2026, I am open to job opportunities in 1) Academia (tenure-track Assistant Professor), 2) U.S. Department of Energy National Laboratories (Postdoctoral Fellow), and 3) Industry (Research Engineer/Scientist).
+
 Latest News
 =======
 <ul>
