@@ -18,7 +18,6 @@ Latest News
   <li><strong>April 2025:</strong> I passed the PhD comprehensive exam for the Electrical Engineering PhD program at Illinois Institute of Technology.</li>
   <li><strong>January 2025:</strong> Our paper titled “Split Federated Learning for AIGC with Resource Cognition in Collaborative Mobile Edge Computing” got accepted in the <a href="https://icc2025.ieee-icc.org/">IEEE ICC 2025</a> Conference.</li>
   <li><strong>May 2024:</strong> Our paper titled “Large Language Model Based Machine Learning Approach for Fake News Detection” got accepted in the <a href="http://www.meta-computing.info/index.html">IEEE ICMC 2024</a> Conference.</li>
-  <li><strong>April 2024:</strong> I participated in the Student Research Poster competition at the <a href="https://www.iit.edu/news/2024-ece-day-seminar-and-student-research-competition">2024 ECE day</a> and won the Best Presentation Award for Ph.D. Research in Networks & Communications as second place.</li>
 </ul>
 
 - **Previous News:** Find in [News](news.html).
