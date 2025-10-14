@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+6. [**Split Federated Learning for AIGC with Resource Cognition in Collaborative Mobile Edge Computing**](https://ieeexplore.ieee.org/document/11162066), <font size="3">ICC 2025 - IEEE International Conference on Communications</font>
+<!-- [pdf](https://example.com/paper2) -->
+   <br><font size="2"><em><b>Oluwaseun T. Ajayi,</b> and Yu Cheng</em></font>
+   
 5. [**An analytical approach for minimizing the age of information in a practical CSMA network**](https://ieeexplore.ieee.org/document/10621330), <font size="3">IEEE INFOCOM 2024 - IEEE Conference on Computer Communications</font>
 <!-- [pdf](https://example.com/paper2) -->
    <br><font size="2"><em>Suyang Wang, <b>Oluwaseun T. Ajayi,</b> and Yu Cheng</em></font>
