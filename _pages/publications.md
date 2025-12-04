@@ -13,7 +13,7 @@ author_profile: true
 
 7. [**COLA: Combinatorial optimization learning approach for energy-efficient backhauling in UAV-assisted B5G/6G wireless networks**](https://ieeexplore.ieee.org/document/11204841), <font size="3">IEEE Transactions on Vehicular Technology</font>
 <!-- [pdf](https://example.com/paper2) -->
-   <br><font size="2"><em><b>Oluwaseun T. Ajayi,</b>, Suyang Wang, and Yu Cheng</em></font>
+   <br><font size="2"><em><b>Oluwaseun T. Ajayi,</b> Suyang Wang, and Yu Cheng</em></font>
 
 6. [**Split Federated Learning for AIGC with Resource Cognition in Collaborative Mobile Edge Computing**](https://ieeexplore.ieee.org/document/11162066), <font size="3">ICC 2025 - IEEE International Conference on Communications</font>
 <!-- [pdf](https://example.com/paper2) -->
