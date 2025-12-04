@@ -1,7 +1,12 @@
 ---
-title: "Combinatorial optimization learning meets wireless backhauling"
-excerpt: "The ultra-densification of small cells to meet the heterogeneous traffic demands of users is a major attribute of the beyond 5G (B5G)/6G wireless networks. The multi-hop multi-commodity flow optimization problem is popular in wireless network optimization, but of more interest in UAV-assisted B5G/6G network where the objective is to achieve energy-efficient routing under certain network constraints. We propose a different paradigm of machine learning which integrates a combinatorial component into a neural network to achieve near-optimal energy-efficient routing with significantly reduced computational overhead.<br/><br/>
-<img src='/images/UAV_WiNet.jpg' width='400' height='200'>"
+title: "Combinatorial optimization learning for backhauling in B5G/6G wireless networks"
+excerpt: "The ultra-densification of small cells to meet the heterogeneous traffic demands of users is a major attribute of the beyond 5G (B5G)/6G wireless networks. The multi-hop multi-commodity flow optimization problem is popular in wireless network optimization, but of more interest in UAV-assisted B5G/6G network where the objective is to achieve energy-efficient routing under certain network constraints. We propose a different paradigm of machine learning which integrates a combinatorial component into a neural network to achieve near-optimal energy-efficient routing with significantly reduced computational overhead.<br/><br/>"
+<table>
+    <tr>
+      <td align="center"><img src='/images/UAV_WiNet.jpg' width='400' height='200'></td>
+      <td align="center"><img src="/images/COLA_vs_NaiveML.jpg" width="400" height="200"></td>
+    </tr>
+</table>
 collection: portfolio
 ---
 
