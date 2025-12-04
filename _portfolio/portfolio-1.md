@@ -6,6 +6,7 @@ collection: portfolio
 ---
 
 To tackle the problem of energy-efficient backhauling in UAV-assisted wireless networks, we propose a combinatorial optimization learning approach (COLA) that integrates a combinatorial algorithm into a neural network to quickly and effectively approximate the solution to the optimization problem. First, the neural network predicts the “magic” link weights given the application-level inputs. The link weights are then used by a simple Dijkstra's algorithm to find the shortest paths for the multi-commodity flows. Our work offer clear insights into how and why COLA outperforms other ML techniques, thus making COLA a viable approach for solving complex wireless network optimization problems.
+
 <img src='/images/COLA_architecture.jpg' width='500' height='300'>
 
 [Read full paper.](https://ieeexplore.ieee.org/document/11204841)
