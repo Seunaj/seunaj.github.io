@@ -9,4 +9,9 @@ To tackle the problem of energy-efficient backhauling in UAV-assisted wireless n
 
 <center><img src='/images/COLA_architecture.jpg'></center>
 
+<b>Paper to cite</>
+O. T. Ajayi, S. Wang and Y. Cheng, "COLA: Combinatorial Optimization Learning Approach for Energy-Efficient Backhauling in UAV-Assisted B5G/6G Wireless Networks," in <i>IEEE Transactions on Vehicular Technology,</i> doi: 10.1109/TVT.2025.3622156.
+
+
+
 [Read full paper.](https://ieeexplore.ieee.org/document/11204841)
