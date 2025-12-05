@@ -1,6 +1,6 @@
 ---
 title: "Combinatorial optimization learning for backhauling in B5G/6G wireless networks"
-excerpt: "The multi-hop multi-commodity flow optimization problem is popular in wireless network optimization, but of more interest in UAV-assisted B5G/6G network where the objective is to achieve energy-efficient routing under certain network constraints. In this project, we develop COLA - a machine learning framework that integrates a combinatorial component into a neural network to achieve near-optimal energy-efficient backhauling with significantly reduced computational overhead.<br/><br/>
+excerpt: "The multi-hop multi-commodity flow optimization problem is popular in wireless network optimization, but of more interest in UAV-assisted B5G/6G wireless networks where the objective is to achieve energy-efficient routing under certain network constraints. In this project, we develop COLA - a machine learning framework that integrates a combinatorial component into a neural network to achieve near-optimal energy-efficient backhauling with significantly reduced computational overhead.<br/><br/>
 <img src='/images/UAV_WiNet.jpg' width='400' height='200'>"
 collection: portfolio
 ---
