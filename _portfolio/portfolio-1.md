@@ -5,7 +5,7 @@ excerpt: "The multi-hop multi-commodity flow optimization problem is popular in 
 collection: portfolio
 ---
 
-To tackle the problem of energy-efficient backhauling in UAV-assisted wireless networks, we propose a combinatorial optimization learning approach (COLA) that integrates a combinatorial algorithm into a neural network to quickly and effectively approximate the solution to the multi-hop multi-commodity flow optimization problem. First, the neural network predicts the “magic” link weights given the application-level inputs. The link weights are then used by a simple Dijkstra's algorithm to find the shortest paths for the multi-commodity flows. Our work offer clear insights into how and why COLA outperforms other ML techniques, thus making COLA a viable approach for solving complex wireless network optimization problems.
+To tackle the problem of energy-efficient backhauling in UAV-assisted wireless networks, we formulate a multi-hop multi-commodity flow optimization problem as a mixed integer linear programming problem (MILP) and propose a combinatorial optimization learning approach (COLA) that integrates a combinatorial algorithm into a neural network to quickly and effectively approximate the solution to the MILP problem. First, the neural network predicts the “magic” link weights given the application-level inputs. The link weights are then used by a simple Dijkstra's algorithm to find the shortest paths for the multi-commodity flows. Our work offer clear insights into how and why COLA outperforms other ML techniques, thus making COLA a viable approach for solving complex wireless network optimization problems.
 
 <center><img src='/images/COLA_architecture.jpg'></center>
 <br>
