@@ -15,11 +15,11 @@ Hi, my name is Oluwaseun (Seun) and I am a Ph.D. candidate in the Department of 
 Latest News
 =======
 <ul>
+  <li><strong>January 2026:</strong> I was selected for the <a href="https://www.ecedha.org/Meetings/2026-ECEDHA-Annual-Conference-and-ECExpo">iREDEFINE Workshop</a> and was awarded a professional development grant to attend the workshop on March 21 - March 22, 2026 at Santa Ana Pueblo, New Mexico.</li>
   <li><strong>October 2025:</strong> Our paper titled "COLA: Combinatorial Optimization Learning Approach for Energy-Efficient Backhauling in UAV-Assisted B5G/6G Wireless Networks" got accepted in IEEE Transactions on Vehicular Technology.</li>
   <li><strong>June 2025:</strong> I started a 10-week internship at <a href="https://www.alcf.anl.gov/">Argonne Leadership Computing Facility (ALCF)</a>, where I worked as a Research Aide Technical - Ph.D.</li>
   <li><strong>May 2025:</strong> I was awarded a Student Travel Grant for the 2025 IEEE International Conference on Communications held in Montréal, Canada (<a href="https://seunaj.github.io/photos#ieeeicc25/">See photos</a>).</li>
-  <li><strong>April 2025:</strong> I passed the Ph.D. comprehensive exam for the Electrical Engineering PhD program at Illinois Institute of Technology.</li>
-  <li><strong>January 2025:</strong> Our paper titled “Split Federated Learning for AIGC with Resource Cognition in Collaborative Mobile Edge Computing” got accepted in the <a href="https://icc2025.ieee-icc.org/">IEEE ICC 2025</a> Conference.</li>
+  <li><strong>April 2025:</strong> I passed the Ph.D. comprehensive exam for the Electrical Engineering Ph.D. program at Illinois Institute of Technology.</li>
 </ul>
 
 - **Previous News:** Find in [News](news.html).
