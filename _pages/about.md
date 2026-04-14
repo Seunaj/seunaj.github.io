@@ -15,6 +15,7 @@ Hi, my name is Oluwaseun (Seun) and I am a Ph.D. candidate in the Department of 
 Latest News
 =======
 <ul>
+  <li><strong>April 2026:</strong> Our paper titled "Accelerating Wireless Network Optimization with Topology-Aware Machine Learning: Exploring and Exploiting the Scheduling Structure" got accepted in IEEE Transactions on Mobile Computing.</li>
   <li><strong>January 2026:</strong> I was awarded a professional development grant to attend the <a href="https://www.ecedha.org/Meetings/2026-ECEDHA-Annual-Conference-and-ECExpo">iREDEFINE Workshop</a> on March 21 - March 22, 2026, at Santa Ana Pueblo, New Mexico.</li>
   <li><strong>October 2025:</strong> Our paper titled "COLA: Combinatorial Optimization Learning Approach for Energy-Efficient Backhauling in UAV-Assisted B5G/6G Wireless Networks" got accepted in IEEE Transactions on Vehicular Technology.</li>
   <li><strong>June 2025:</strong> I started a 10-week internship at <a href="https://www.alcf.anl.gov/">Argonne Leadership Computing Facility (ALCF)</a>, where I worked as a Research Aide Technical - Ph.D.</li>
