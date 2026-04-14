@@ -20,7 +20,6 @@ Latest News
   <li><strong>October 2025:</strong> Our paper titled "COLA: Combinatorial Optimization Learning Approach for Energy-Efficient Backhauling in UAV-Assisted B5G/6G Wireless Networks" got accepted in IEEE Transactions on Vehicular Technology.</li>
   <li><strong>June 2025:</strong> I started a 10-week internship at <a href="https://www.alcf.anl.gov/">Argonne Leadership Computing Facility (ALCF)</a>, where I worked as a Research Aide Technical - Ph.D.</li>
   <li><strong>May 2025:</strong> I was awarded a Student Travel Grant for the 2025 IEEE International Conference on Communications held in Montréal, Canada (<a href="https://seunaj.github.io/photos#ieeeicc25/">See photos</a>).</li>
-  <li><strong>April 2025:</strong> I passed the Ph.D. comprehensive exam for the Electrical Engineering Ph.D. program at Illinois Institute of Technology.</li>
 </ul>
 
 - **Previous News:** Find in [News](news.html).
