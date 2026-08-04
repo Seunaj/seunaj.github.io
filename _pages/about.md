@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Oluwaseun (Seun) and I hold a Ph.D. in Electrical Engineering <span>&#127891;</span> from the [Illinois Institute of Technology](https://www.iit.edu/). I was a Ph.D. student under the supervision of [Prof. Yu Cheng's](https://www.iit.edu/directory/people/yu-cheng) **FU**ture **N**etworking laboratory (FunLab) from Spring 2021 to Summer 2026 and worked on interesting research in the areas of wireless network optimization, information freshness optimization (age of information), machine learning, and AI for science. Most of my papers are published in top-tier IEEE journals and conferences/workshops. In [FunLab](https://www.ece.iit.edu/~yucheng/research.htm), our research is **FUN!** <span>&#128515;</span>
+Hi, my name is Oluwaseun (Seun) and I hold a Ph.D. in Electrical Engineering <span>&#127891;</span> from the [Illinois Institute of Technology](https://www.iit.edu/). I was a Ph.D. student in [Prof. Yu Cheng's](https://www.iit.edu/directory/people/yu-cheng) **FU**ture **N**etworking laboratory (FunLab) from Spring 2021 to Summer 2026 and worked on interesting research in the areas of wireless network optimization, information freshness optimization (age of information), machine learning, and AI for science. Most of my papers are published in top-tier IEEE journals and conferences/workshops. In [FunLab](https://www.ece.iit.edu/~yucheng/research.htm), our research is **FUN!** <span>&#128515;</span>
 
 &#128227; I am actively looking for job opportunities in the following categories: 1) Tenure-track Assistant Professor in a U.S. University, 2) Postdoctoral Research Fellow in a U.S. Department of Energy National Laboratory, and 3) Research Engineer/Scientist in a Leading Industry.
 
