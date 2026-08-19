@@ -17,7 +17,7 @@ Education
   <br>
     Dissertation: Machine Learning-Assisted Age of Information Optimization in Practical CSMA-Based Wireless Networks
   <br>
-    Advisor: [Prof. Yu Cheng](https://www.iit.edu/directory/people/yu-cheng)
+    Advisor: <a href='https://www.iit.edu/directory/people/yu-cheng'>Prof. Yu Cheng</a>
   </li>
 </ul>
 
