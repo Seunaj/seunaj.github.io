@@ -13,7 +13,7 @@ Hi, my name is Oluwaseun (pronounced oluwa-shay-woon) and I hold a Ph.D. in Elec
 Education
 =======
 <ul>
-  <li><strong>Ph.D. in Electrical Engineering</strong> Illinois Institute of Technology, Chicago, IL, USA, 2026
+  <li><strong>Ph.D. in Electrical Engineering</strong>, Illinois Institute of Technology, Chicago, IL, USA, 2026
   <br>
     Dissertation: <i>Topology-Aware Machine Learning-based Optimization for Next Generation Wireless Networks</i>
   <br>
@@ -21,10 +21,10 @@ Education
   </li>
 </ul>
 <ul>
-  <li><strong>M.A.S. in Electrical and Computer Engineering</strong> Illinois Institute of Technology, Chicago, IL, USA, 2024</li>
+  <li><strong>M.A.S. in Electrical and Computer Engineering</strong>, Illinois Institute of Technology, Chicago, IL, USA, 2024</li>
 </ul>
 <ul>
-  <li><strong>B.S. in Telecommunication Science</strong> University of Ilorin, Nigeria, 2018</li>
+  <li><strong>B.S. in Telecommunication Science</strong>, University of Ilorin, Nigeria, 2018</li>
 </ul>
 
 &#128227; I am actively looking for job opportunities in the following categories: 1) Tenure-track Assistant Professor in a U.S. University, 2) Postdoctoral Research Fellow in a U.S. Department of Energy National Laboratory, and 3) Research Engineer/Scientist in a Leading Industry.
