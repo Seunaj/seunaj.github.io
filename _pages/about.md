@@ -15,7 +15,7 @@ Education
 <ul>
   <li><strong>Ph.D. in Electrical Engineering</strong> Illinois Institute of Technology, Chicago, IL, USA, 2026
   <br>
-    Dissertation: Machine Learning-Assisted Age of Information Optimization in Practical CSMA-Based Wireless Networks
+    Dissertation: <i>Topology-Aware Machine Learning-based Optimization for Next Generation Wireless Networks</i>
   <br>
     Advisor: <a href='https://www.iit.edu/directory/people/yu-cheng'>Prof. Yu Cheng</a>
   </li>
