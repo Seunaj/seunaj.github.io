@@ -27,8 +27,6 @@ Education
   <li><strong>B.S. in Telecommunication Science</strong>, University of Ilorin, Nigeria, 2018</li>
 </ul>
 
-&#128227; I am actively looking for job opportunities in the following categories: 1) Tenure-track Assistant Professor in a U.S. University, 2) Postdoctoral Research Fellow in a U.S. Department of Energy National Laboratory, and 3) Research Engineer/Scientist in a Leading Industry.
-
 Latest News
 =======
 <ul>
