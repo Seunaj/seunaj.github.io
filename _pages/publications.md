@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+8. [**Accelerating Wireless Network Optimization with Topology-Aware Machine Learning: Exploring and Exploiting the Scheduling Structure**](https://ieeexplore.ieee.org/document/11476887), <font size="3">IEEE Transactions on Mobile Computing</font>
+<!-- [pdf](https://example.com/paper2) -->
+   <br><font size="2"><em><b>Oluwaseun T. Ajayi,</b> Suyang Wang, and Yu Cheng</em></font>
+
 7. [**COLA: Combinatorial optimization learning approach for energy-efficient backhauling in UAV-assisted B5G/6G wireless networks**](https://ieeexplore.ieee.org/document/11204841), <font size="3">IEEE Transactions on Vehicular Technology</font>
 <!-- [pdf](https://example.com/paper2) -->
    <br><font size="2"><em><b>Oluwaseun T. Ajayi,</b> Suyang Wang, and Yu Cheng</em></font>
